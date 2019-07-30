@@ -1,0 +1,2 @@
+# Online-Tutoring-and-Student-Support-System
+The development of a students’ support system, where students are able to get the most convenient help and supports towards getting tutors, getting buyers for their products or sellers for product there are in need off. Also, the provision mobility of students at any given time, this also furthers on to students having a platform for complaints and also the provision an immediate link between students and PYSCAD. A system to have everything on campus and their study life at a convenience.
